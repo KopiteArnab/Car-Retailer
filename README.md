@@ -4,13 +4,13 @@
 #DB Schema
 Table names in Metabase are as follows:
 
-cr_customers
-cr_employees
-cr_offices
-cr_orderdetails
-cr_orders
-cr_payments
-cr_productlines
-cr_products
+-[cr_customers]
+-[cr_employees]
+-[cr_offices]
+-[cr_orderdetails]
+-[cr_orders]
+-[cr_payments]
+-[cr_productlines]
+-[cr_products]
 
-![alt text](https://github.com/KopiteArnab/Youtube_trending_videos_sql/blob/d050acda7e27b27464e18d4178d8a9be7767910d/ERD.jpg)
+![alt text](https://github.com/KopiteArnab/Car-Retailer/blob/f62671910e935859080cb400df07059a3c72601e/ERD.jpg)
