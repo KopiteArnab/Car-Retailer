@@ -27,3 +27,5 @@ FROM    (SELECT Month_name,
                              productline) a) b
  WHERE ranks <=3
 ````
+**Results:**
+-[Output](https://github.com/KopiteArnab/Car-Retailer/blob/a2e8c1c3b0c621fe5cc38978d939c7a6f91432e7/Output/Question_1.csv)
