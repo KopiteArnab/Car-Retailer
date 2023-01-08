@@ -1,38 +1,38 @@
-[
-{"Month_name":"April","Productline":"Classic Cars","Profit":113657.17,"Ranks":1},
-{"Month_name":"April","Productline":"Motorcycles","Profit":57572.02,"Ranks":2},
-{"Month_name":"April","Productline":"Vintage Cars","Profit":55031.74,"Ranks":3},
-{"Month_name":"August","Productline":"Classic Cars","Profit":98186.94,"Ranks":1},
-{"Month_name":"August","Productline":"Motorcycles","Profit":40979.81,"Ranks":2},
-{"Month_name":"August","Productline":"Vintage Cars","Profit":34705.22,"Ranks":3},
-{"Month_name":"December","Productline":"Classic Cars","Profit":104392.12,"Ranks":1},
-{"Month_name":"December","Productline":"Vintage Cars","Profit":49623.64,"Ranks":2},
-{"Month_name":"December","Productline":"Trucks and Buses","Profit":36537.69,"Ranks":3},
-{"Month_name":"February","Productline":"Classic Cars","Profit":116312.52,"Ranks":1},
-{"Month_name":"February","Productline":"Motorcycles","Profit":46631.24,"Ranks":2},
-{"Month_name":"February","Productline":"Vintage Cars","Profit":42307.39,"Ranks":3},
-{"Month_name":"January","Productline":"Classic Cars","Profit":115203.24,"Ranks":1},
-{"Month_name":"January","Productline":"Vintage Cars","Profit":70558.74,"Ranks":2},
-{"Month_name":"January","Productline":"Motorcycles","Profit":28677.31,"Ranks":3},
-{"Month_name":"July","Productline":"Classic Cars","Profit":91258.38,"Ranks":1},
-{"Month_name":"July","Productline":"Vintage Cars","Profit":48251.64,"Ranks":2},
-{"Month_name":"July","Productline":"Motorcycles","Profit":23825.92,"Ranks":3},
-{"Month_name":"June","Productline":"Classic Cars","Profit":66521.62,"Ranks":1},
-{"Month_name":"June","Productline":"Vintage Cars","Profit":35956.05,"Ranks":2},
-{"Month_name":"June","Productline":"Planes","Profit":27011.56,"Ranks":3},
-{"Month_name":"March","Productline":"Classic Cars","Profit":111117.96,"Ranks":1},
-{"Month_name":"March","Productline":"Vintage Cars","Profit":66649.72,"Ranks":2},
-{"Month_name":"March","Productline":"Planes","Profit":31238.67,"Ranks":3},
-{"Month_name":"May","Productline":"Classic Cars","Profit":136055.39,"Ranks":1},
-{"Month_name":"May","Productline":"Vintage Cars","Profit":57497.77,"Ranks":2},
-{"Month_name":"May","Productline":"Trucks and Buses","Profit":53113.31,"Ranks":3},
-{"Month_name":"November","Productline":"Classic Cars","Profit":328375.00,"Ranks":1},
-{"Month_name":"November","Productline":"Vintage Cars","Profit":147973.30,"Ranks":2},
-{"Month_name":"November","Productline":"Motorcycles","Profit":90285.65,"Ranks":3},
-{"Month_name":"October","Productline":"Classic Cars","Profit":161435.57,"Ranks":1},
-{"Month_name":"October","Productline":"Vintage Cars","Profit":82049.91,"Ranks":2},
-{"Month_name":"October","Productline":"Trucks and Buses","Profit":45103.88,"Ranks":3},
-{"Month_name":"September","Productline":"Classic Cars","Profit":83696.29,"Ranks":1},
-{"Month_name":"September","Productline":"Vintage Cars","Profit":46663.21,"Ranks":2},
-{"Month_name":"September","Productline":"Trucks and Buses","Profit":28272.93,"Ranks":3}
-]
+Month_name,Productline,Profit,Ranks
+April,Classic Cars,113657.17,1
+April,Motorcycles,57572.02,2
+April,Vintage Cars,55031.74,3
+August,Classic Cars,98186.94,1
+August,Motorcycles,40979.81,2
+August,Vintage Cars,34705.22,3
+December,Classic Cars,104392.12,1
+December,Vintage Cars,49623.64,2
+December,Trucks and Buses,36537.69,3
+February,Classic Cars,116312.52,1
+February,Motorcycles,46631.24,2
+February,Vintage Cars,42307.39,3
+January,Classic Cars,115203.24,1
+January,Vintage Cars,70558.74,2
+January,Motorcycles,28677.31,3
+July,Classic Cars,91258.38,1
+July,Vintage Cars,48251.64,2
+July,Motorcycles,23825.92,3
+June,Classic Cars,66521.62,1
+June,Vintage Cars,35956.05,2
+June,Planes,27011.56,3
+March,Classic Cars,111117.96,1
+March,Vintage Cars,66649.72,2
+March,Planes,31238.67,3
+May,Classic Cars,136055.39,1
+May,Vintage Cars,57497.77,2
+May,Trucks and Buses,53113.31,3
+November,Classic Cars,328375.00,1
+November,Vintage Cars,147973.30,2
+November,Motorcycles,90285.65,3
+October,Classic Cars,161435.57,1
+October,Vintage Cars,82049.91,2
+October,Trucks and Buses,45103.88,3
+September,Classic Cars,83696.29,1
+September,Vintage Cars,46663.21,2
+September,Trucks and Buses,28272.93,3
+
