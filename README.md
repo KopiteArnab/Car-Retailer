@@ -1,6 +1,6 @@
 # Car-Retailer
 “Car Retailer” database is a retailer of scale models of classic cars database. It contains typical business data such as customers, products, sales orders, sales order line items, etc.
-* [Data Analysis Question & Answers](https://github.com/KopiteArnab/Car-Retailer/blob/27282f4563c713a40c881653a3f362b2d37fc78f/questions_and_answers.md)
+* [Data Analysis Question & Answers](https://github.com/KopiteArnab/Car-Retailer/blob/main/questions_and_answers.md)
 
 # DB Schema
 Table names in Metabase are as follows:
