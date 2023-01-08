@@ -1,0 +1,37 @@
+Month_name,Productline,Profit,Ranks
+April,Classic Cars,113657.17,1
+April,Motorcycles,57572.02,2
+April,Vintage Cars,55031.74,3
+August,Classic Cars,98186.94,1
+August,Motorcycles,40979.81,2
+August,Vintage Cars,34705.22,3
+December,Classic Cars,104392.12,1
+December,Vintage Cars,49623.64,2
+December,Trucks and Buses,36537.69,3
+February,Classic Cars,116312.52,1
+February,Motorcycles,46631.24,2
+February,Vintage Cars,42307.39,3
+January,Classic Cars,115203.24,1
+January,Vintage Cars,70558.74,2
+January,Motorcycles,28677.31,3
+July,Classic Cars,91258.38,1
+July,Vintage Cars,48251.64,2
+July,Motorcycles,23825.92,3
+June,Classic Cars,66521.62,1
+June,Vintage Cars,35956.05,2
+June,Planes,27011.56,3
+March,Classic Cars,111117.96,1
+March,Vintage Cars,66649.72,2
+March,Planes,31238.67,3
+May,Classic Cars,136055.39,1
+May,Vintage Cars,57497.77,2
+May,Trucks and Buses,53113.31,3
+November,Classic Cars,328375.00,1
+November,Vintage Cars,147973.30,2
+November,Motorcycles,90285.65,3
+October,Classic Cars,161435.57,1
+October,Vintage Cars,82049.91,2
+October,Trucks and Buses,45103.88,3
+September,Classic Cars,83696.29,1
+September,Vintage Cars,46663.21,2
+September,Trucks and Buses,28272.93,3
